@@ -10,6 +10,7 @@ Algorithm:
 6. Set x-axis and label the quarters.
 7. Add labels, title, and legend.
 8. Display the chart.
+
 output:
 <img width="2400" height="1600" alt="Image" src="https://github.com/user-attachments/assets/dfaf2c1c-3718-4ba4-a4ec-5b0cc14da7e1" />
 
