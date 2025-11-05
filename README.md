@@ -1,0 +1,17 @@
+Scenario 3: Market Share of Mobile Companies
+
+A survey reports the market share of 4 mobile companies. Plot a pie chart to represent their percentage share.
+
+Algorithm:
+
+1. Define company names list.
+
+2. Define their market share percentage list.
+
+3. Plot pie chart with labels, percentage display, start angle, and shadow.
+
+4. Display the pie chart.
+
+
+output:
+<img width="1084" height="712" alt="piechart" src="https://github.com/user-attachments/assets/2e9ea76e-0a76-4b43-809a-be2de5cf073b" />
